@@ -1,0 +1,13 @@
+.marBar{
+    background-color: red;
+    color: white;
+    font-weight: 900;
+}
+
+.LiveCap{
+    word-spacing: 10px;
+}
+
+.cardHover :hover{
+    box-shadow: 0 .5rem 1rem rgba(3,3,2,.15)!important;
+}
